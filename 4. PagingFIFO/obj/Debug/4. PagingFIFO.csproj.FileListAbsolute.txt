@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\bin\Debug\_4.PagingFIFO.exe.config
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\bin\Debug\_4.PagingFIFO.exe
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\bin\Debug\_4.PagingFIFO.pdb
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\4. PagingFIFO.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\_4.PagingFIFO.Properties.Resources.resources
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\4. PagingFIFO.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\4. PagingFIFO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\_4.PagingFIFO.exe
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\_4.PagingFIFO.pdb
+C:\Users\Admin\source\repos\4. PagingFIFO\4. PagingFIFO\obj\Debug\_4.PagingFIFO.Form1.resources
